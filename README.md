@@ -52,6 +52,10 @@ This repository contains a curated list of resources related to Generative AI. I
 - [Let Us Show You How GPT Works — Using Jane Austen - The New York Times](https://www.nytimes.com/2023/01/10/science/ai-gpt-jane-austen.html): an article explaining how GPT works using Jane Austen's writings.
 - [Search-in-the-Chain: Towards Accurate, Credible and Traceable Large Language Models for Knowledge-intensive Tasks | arxiv](https://arxiv.org/abs/2201.01234): a novel framework called Search-in-the-Chain (SearChain) to improve the accuracy, credibility, and traceability of LLM-generated content for multi-hop question answering.
 - [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide): a list of practical guide resources of LLMs based on the paper "Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond".
+- Cerebras-GPT-13B, JARVIS, OpenLlama, pandas-ai
+- Free LLMs and tools for different applications, including data manipulation with pandas-ai
+- [Cerebras-GPT-13B](https://huggingface.co/cerebras/Cerebras-GPT-13B), [JARVIS](https://github.com/microsoft/JARVIS), [OpenLlama](https://the-decoder.com/openllama-is-a-fully-open-source-llm-now-ready-for-business/), [pandas-ai](https://github.com/gventuri/pandas-ai)
+
 
 ## Tools and Libraries
 
